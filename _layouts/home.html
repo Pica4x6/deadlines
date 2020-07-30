@@ -170,7 +170,7 @@
           var parsedDeadlines = [];
           while (rawDeadlines.length > 0) {
             var rawDeadline = rawDeadlines.pop();
-            // check if deadline is template
+            // check if date is template
             if (rawDeadline.indexOf('%m') >= 0) {
               for (var m = 1; m <= 12; m++) {
                 rawDeadlines.push(rawDeadline.replace('%m', m < 10 ? '0' + m : m));
@@ -179,13 +179,22 @@
               year = parseInt(moment().year());
               rawDeadlines.push(rawDeadline.replace('%y', year));
               rawDeadlines.push(rawDeadline.replace('%y', year + 1));
+
             } else {
               // adjust date according to deadline timezone
               {% if conf.timezone %}
               var deadline = moment.tz(rawDeadline, "{{ conf.timezone }}");
               {% else %}
-              var deadline = moment(rawDeadline + "-12:00");
+              var deadline = moment.tz(rawDeadline, "Etc/GMT+12"); // Anywhere on Earth
               {% endif %}
+
+              // post-process date
+              if (deadline.minutes() === 0) {
+                deadline.subtract(1, 'seconds');
+              }
+              if (deadline.minutes() === 59) {
+                deadline.seconds(59);
+              }
               parsedDeadlines.push(deadline);
             }
           }
@@ -202,21 +211,22 @@
 
           // render countdown timer
           if (confDeadline) {
-
-            $('#{{ conf_id }} .timer').countdown(confDeadline.toDate(), function(event) {
-              var today = moment();
-              if (today.diff(confDeadline) <= 0) {
-                $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+            function make_update_countdown_fn(confDeadline) {
+              return function(event) {
+                diff = moment() - confDeadline
+                if (diff <= 0) {
+                   $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                } else {
+                  $(this).html(confDeadline.fromNow());
+                }
               }
-            });
-
+            }
+            $('#{{ conf_id }} .timer').countdown(confDeadline.toDate(), make_update_countdown_fn(confDeadline));
             // check if date has passed, add 'past' class to it
-            if (today.diff(confDeadline) > 0) {
+            if (moment() - confDeadline > 0) {
               $('#{{ conf_id }}').addClass('past');
             }
-
             $('#{{ conf_id }} .deadline-time').html(confDeadline.local().format('D MMM YYYY, h:mm:ss a'));
-
             deadlineByConf["{{ conf_id }}"] = confDeadline;
           }
 
@@ -244,15 +254,41 @@
           }
         }
 
-        // Reorder list
-      var confs = $('.conf');
+      // Reorder list
+      confs = $('.conf');
       confs.detach().sort(function(a, b) {
-          if (a.className.includes("past")){ return true}
-          else{
-              if (b.className.includes("past")){ return false}
-          }
-
-        return deadlineByConf[a.id] > deadlineByConf[b.id];
+        var today = moment();
+        var a = deadlineByConf[a.id];
+        var b = deadlineByConf[b.id];
+        var diff1 = today.diff(a)
+        var diff2 = today.diff(b)
+        if (a == null && b == null) {
+          return 0;
+        }
+        if (a == null && diff2 > 0) {
+          return -1;
+        }
+        if (a == null && diff2 < 0) {
+          return +1;
+        }
+        if (b == null && diff1 > 0) {
+          return +1;
+        }
+        if (b == null && diff1 < 0) {
+          return -1;
+        }
+        if (diff1 < 0 && diff2 > 0) {
+          return -1;
+        }
+        if (diff1 > 0 && diff2 < 0) {
+          return +1;
+        }
+        if (diff1 < 0 && diff2 < 0) {
+          return -1 ? diff1 < diff2 : +1;
+        }
+        if (diff1 > 0 && diff2 > 0) {
+          return -1 ? a < b : +1;
+        }
       });
       $('#conf-container').append(confs);
 
