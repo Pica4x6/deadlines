@@ -20,8 +20,7 @@
 
 title: Security & Privacy Conferences
 email: pablop@chalmers.se
-description: >- # this means to ignore newlines until "baseurl:"
-  Deadlines of the most importat Security & Privacy conferences.
+description: Deadlines of the most important Security & Privacy conferences.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
