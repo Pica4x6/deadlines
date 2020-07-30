@@ -149,10 +149,10 @@
 - title: CSF
   description: IEEE Computer Security Foundations Symposium
   year: 2021
-  link: https://www.ieee-security.org/TC/CSF2020/
+  link: https://www.ieee-security.org/TC/CSF2021/
   deadline:
-#    - "%y-02-07 23:59"
-#    - "%y-04-17 23:59"
+    - "%y-02-07 23:59"
+    - "%y-05-8 23:59"
     - "%y-10-02 23:59"
   comment: Rolling deadline every quarter
   date: June 21-25
