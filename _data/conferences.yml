@@ -337,7 +337,7 @@
   core: C
   esp: 3
   
-  - title: IH&MM
+- title: IH&MM
   description: Information Hiding and Multimedia Security
   year: 2020
   link: https://www.ihmmsec.org/cms/call-for-papers/index.html
