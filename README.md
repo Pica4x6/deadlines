@@ -13,29 +13,35 @@ Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 Example record:
 
 ```
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2018
-  link: http://www.ieee-security.org/TC/EuroSP2018/
-  deadline: "2017-08-15 23:59"
-  date: April 24-26
-  place: London, UK
-  tags: [SEC, PRIV]
+- name: S&P
+  description: IEEE Symposium on Security and Privacy
+  year: 2021
+  link: https://www.ieee-security.org/TC/SP2021/
+  deadline:
+    - "2020-03-05 23:59"
+    - "2020-06-04 23:59"
+    - "2020-09-03 23:59"
+    - "2020-12-03 23:59"
+  date: "May 23 – 27 2021"
+  place: San Francisco, California, USA
+  core: AAA
+  esp: 1
 ```
 
 Descriptions of the fields:
 
-| Field name    | Description                                                 |
-|---------------|-------------------------------------------------------------|
-| `name`\*      | Short conference name, without year                         |
-| `year`\*      | Year the conference is happening                            |
-| `description` | Description, or long name                                   |
-| `link`\*      | URL to the conference home page                             |
-| `deadline`\*  | Deadline, or list of deadlines. (Gory details below)        |
-| `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
-| `date`        | When the conference is happening                            |
-| `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| Field name    | Description                                                       |
+|---------------|-------------------------------------------------------------------|
+| `name`\*      | Short conference name, without year                               |
+| `year`\*      | Year the conference is happening                                  |
+| `description` | Description, or long name                                         |
+| `link`\*      | URL to the conference home page                                   |
+| `deadline`\*  | Deadline, or list of deadlines. (Gory details below)              |
+| `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2])       |
+| `date`        | When the conference is happening                                  |
+| `place`       | Where the conference is happening                                 |
+| `core`        | CORE ranking conferences: `AAA`, `A`, `B`or `C`                   |
+| `esp`         | http://gii-grin-scie-rating.scie.es ranking: `1`, `2`, `3`or `0`  |
 
 Fields marked with asterisk (\*) are required.
 
