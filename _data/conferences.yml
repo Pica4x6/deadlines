@@ -48,6 +48,26 @@
   core: AAA
   esp: 1
 
+- title: ICWS
+  description: International Conference on Web Services
+  year: 2020
+  link: http://icws.org/2020/index.html
+  deadline: "2020-02-05 23:59"
+  date: "September 18-20"
+  place: Online
+  core: A
+  esp: 2
+
+- title: WISE
+  description: Conference on Web Information Systems Engineering
+  year: 2020
+  link: http://wasp.cs.vu.nl/WISE2020/index.html
+  deadline: "2020-06-11 23:59"
+  date: "October 20-24"
+  place: Leiden, Netherlands
+  core: A
+  esp: 3
+
 - title: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
   year: 2021
