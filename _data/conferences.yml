@@ -86,6 +86,17 @@
   place: San Diego, CA, USA
   core: AAA
   esp: 1
+  
+- title: DSN
+  description: Dependable Systems and Networks
+  year: 2021
+  link: http://dsn2021.ntu.edu.tw
+  deadline: "2020-12-11 23:59"
+  comment: Title and abstract deadline on Dec, 4th
+  date: June 21-24
+  place: Taipei, Taiwan
+  core: A
+  esp: 2
 
 - title: ESORICS
   description: European Symposium on Research in Computer Security
