@@ -121,12 +121,15 @@
 
 - title: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2020
-  link: http://esorics2020.sccs.surrey.ac.uk
-  deadline: "2020-04-24 23:59"
-  comment: Title and abstract deadline on April 17
-  date: September 23-27
-  place: Surrey, UK
+  year: 2021
+  link: https://esorics2021.athene-center.de/index.php
+  deadline:
+    - "2021-01-12 23:59"
+    - "2021-05-12 23:59"
+  timezone: Etc/UTC
+  comment: Title and abstract deadline 7 days before the deadline
+  date: October 04-08
+  place: Darmstadt, Germany
   core: A
   esp: 2
 
