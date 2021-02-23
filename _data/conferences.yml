@@ -185,7 +185,7 @@
   link: https://www.ieee-security.org/TC/CSF2021/
   deadline:
     - "%y-02-07 23:59"
-    - "%y-05-8 23:59"
+    - "%y-05-08 23:59"
     - "%y-10-02 23:59"
   comment: Rolling deadline every quarter
   date: June 21-25
