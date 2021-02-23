@@ -240,11 +240,11 @@
 
 - title: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2020
-  link: http://ieee-trustcom.org/TrustCom2020/
-  deadline: "2020-07-29 23:59"
-  date: "December 29"
-  place: Guangzhou, China
+  year: 2021
+  link: https://trustcom2021.sau.edu.cn
+  deadline: "2021-03-20 23:59"
+  date: "August 18-20"
+  place: Shenyang, China
   core: A
   esp: 3
 
