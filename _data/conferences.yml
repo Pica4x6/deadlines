@@ -196,10 +196,10 @@
 
 - title: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2020
-  link: https://www.raid2020.org/
-  deadline: "2020-04-07 23:59"
-  date: October 14-16
+  year: 2021
+  link: https://www.raid2021.org/
+  deadline: "2020-03-26 23:59"
+  date: October 6-8
   place: Donostia/San Sebastian, Spain
   core: A
   esp: 2
@@ -207,7 +207,7 @@
 - title: ACSAC
   description: Annual Computer Security Applications Conference
   year: 2020
-  link: https://www.acsac.org/2020/
+  link: https://www.acsac.org/2021/
   deadline: "2020-06-12 23:59"
   date: "Dec 7-11"
   place: Austin, TX, USA
@@ -217,7 +217,7 @@
 - title: IMC
   description: Internet Measurement Conference
   year: 2020
-  link: https://conferences.sigcomm.org/imc/2020/
+  link: https://conferences.sigcomm.org/imc/2021/
   deadline: "2020-05-26 23:59"
   comment: Title and abstract deadline on May 19th
   timezone: America/Los_Angeles
