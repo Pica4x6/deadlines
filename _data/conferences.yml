@@ -220,7 +220,7 @@
   link: https://conferences.sigcomm.org/imc/2021/
   deadline: "2021-05-19 23:59"
   comment: Title and abstract deadline on May 19th
-  timezone: PDT
+  timezone: UTC-7
   date: "November 2-4"
   place: Online
   core: AAA
