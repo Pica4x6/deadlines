@@ -49,10 +49,10 @@
 
 - title: ICWS
   description: International Conference on Web Services
-  year: 2020
-  link: http://icws.org/2020/index.html
-  deadline: "2020-02-05 23:59"
-  date: "September 18-20"
+  year: 2021
+  link: http://icws.org/2021
+  deadline: "2020-05-14 23:59"
+  date: "September 18-22"
   place: Online
   core: A
   esp: 2
@@ -242,7 +242,7 @@
   description: International Conference on Trust, Security and Privacy in Computing and Communications
   year: 2021
   link: https://trustcom2021.sau.edu.cn
-  deadline: "2021-03-20 23:59"
+  deadline: "2021-04-20 23:59"
   date: "August 18-20"
   place: Shenyang, China
   core: A
