@@ -143,7 +143,7 @@
 
 - title: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2021
+  year: 2022
   link: https://petsymposium.org
   deadline:
     - "%y-05-31 23:59"
@@ -151,7 +151,7 @@
     - "%y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: July 19-24
+  date: July 18-23
   place: Sydney, Australia
   core: B
   esp: 3
@@ -259,10 +259,11 @@
 
 - title: ISC
   description: The Information Security Conference
-  year: 2020
-  link: https://isc2020.petra.ac.id/
-  deadline: "2020-05-28 23:59"
-  date: "December 16–20"
+  year: 2021
+  link: https://isc2021.petra.ac.id/
+  deadline: "2020-06-07 23:59"
+  timezone: GMT
+  date: "November 9–13"
   place: Bali (Indonesia)
   core: B
   esp: 3
