@@ -368,3 +368,13 @@
   place: Brussels, Belgium
   core: C
   esp: 3
+
+- title: QRS
+  description: Quality, Reliability, and Security
+  year: 2021
+  link: https://qrs21.techconf.org
+  deadline: "2021-06-10 23:59"
+  date: "December 6-10"
+  place: Hainan, China
+  core: B
+  esp: 3
