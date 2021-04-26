@@ -96,11 +96,11 @@
 - title: NDSS
   description: ISOC Network and Distributed System Security Symposium
   year: 2022
-  link: https://www.ndss-symposium.org/ndss-2022/
+  link: https://www.ndss-symposium.org/ndss2022/call-for-papers/
   deadline:
-    - "%y-04-30 23:59"
-    - "%y-07-31 23:59"
-  date: February 21-24
+    - "%y-05-21 23:59"
+    - "%y-07-23 23:59"
+  date: February 27-4
   place: San Diego, CA, USA
   core: AAA
   esp: 1
