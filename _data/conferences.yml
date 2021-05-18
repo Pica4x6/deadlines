@@ -213,6 +213,15 @@
   core: AAA
   esp: 1
 
+- title: DecDev
+  description: Quality, Reliability, and Security
+  year: 2021
+  link: https://secdev.ieee.org/2021
+  deadline: "2021-05-04 23:59"
+  date: "October 18–20"
+  place: Virtual Conference
+  esp: 0
+
 - title: IMC
   description: Internet Measurement Conference
   year: 2021
@@ -378,13 +387,4 @@
   place: Hainan, China
   core: B
   esp: 3
-
-- title: DecDev
-  description: Quality, Reliability, and Security
-  year: 2021
-  link: https://secdev.ieee.org/2021
-  deadline: "2021-05-04 23:59"
-  date: "October 18–20"
-  place: Virtual Conference
-  esp: 0
 
