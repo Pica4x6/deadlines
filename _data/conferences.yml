@@ -2,12 +2,11 @@
 
 - title: DevSec
   year: 2022
-  date: "April 25–29"
-  description: The Web Conference
-  link: http://www2022.thewebconf.org/
+  date: "October 18–20"
+  description: Secure Development Conference
+  link: https://secdev.ieee.org/2021/papers/
   deadline: "2021-06-04 23:59"
-  comment: Abstract submission deadline October 11, 2020
-  place: Lyon, France
+  place: Virtual
   core: AAA
   esp: 1
 
