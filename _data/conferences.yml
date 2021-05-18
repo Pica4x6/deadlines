@@ -1,14 +1,15 @@
 ---
 
-- title: DecDev
-  description: DecDeve
-  year: 2021
-  link: https://secdev.ieee.org/2021
-  deadline: "2021-05-04 23:59"
-  date: "October 18–20"
-  place: Virtual
-  core: C
-  esp: 0
+- title: DevSec
+  year: 2022
+  date: "April 25–29"
+  description: The Web Conference
+  link: http://www2022.thewebconf.org/
+  deadline: "2021-06-04 23:59"
+  comment: Abstract submission deadline October 11, 2020
+  place: Lyon, France
+  core: AAA
+  esp: 1
 
 - title: S&P (Oakland) 
   year: 2022
