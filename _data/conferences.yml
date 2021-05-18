@@ -380,16 +380,6 @@
   esp: 3
 
 - title: DecDev
-  description: Quality, Reliability, and Security
-  year: 2021
-  link: https://secdev.ieee.org/2021
-  deadline: "2021-07-15 23:59"
-  date: "December 6-10"
-  place: Hainan, China
-  core: B
-  esp: 3
-
-- title: DecDev
   year: 2021
   date: "October 18–20"
   description: IEEE Secure Development Conference
