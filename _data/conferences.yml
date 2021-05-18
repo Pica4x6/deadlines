@@ -378,3 +378,13 @@
   place: Hainan, China
   core: B
   esp: 3
+
+- title: DecDev
+  year: 2022
+  date: "April 25–29"
+  description: IEEE Secure Development Conference
+  link: https://secdev.ieee.org/2021
+  deadline: "2021-07-04 23:59"
+  place: Virtual Conference
+  core: 
+  esp: 0
