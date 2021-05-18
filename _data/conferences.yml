@@ -1,5 +1,15 @@
 ---
 
+- title: DecDev
+  description: DecDeve
+  year: 2021
+  link: https://secdev.ieee.org/2021
+  deadline: "2021-05-04 23:59"
+  date: "October 18–20"
+  place: Virtual
+  core: C
+  esp: 0
+
 - title: S&P (Oakland) 
   year: 2022
   date: "May 22 – 26 2022"
@@ -212,16 +222,6 @@
   place: Austin, TX, USA
   core: AAA
   esp: 1
-
-- title: DecDev
-  description: DecDeve
-  year: 2021
-  link: https://secdev.ieee.org/2021
-  deadline: "2021-05-04 23:59"
-  date: "October 18–20"
-  place: Virtual
-  core: 
-  esp: 0
 
 - title: IMC
   description: Internet Measurement Conference
