@@ -1,13 +1,12 @@
 ---
 
 - title: DevSec
-  year: 2022
+  year: 2021
   date: "October 18–20"
   description: Secure Development Conference
   link: https://secdev.ieee.org/2021/papers/
   deadline: "2021-06-04 23:59"
   place: Virtual
-  core: 
   esp: 0
 
 - title: S&P (Oakland) 
