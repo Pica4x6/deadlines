@@ -10,6 +10,17 @@
   core: N
   esp: 0
 
+- title: WPES
+  year: 2021
+  date: "November 15"
+  description: Workshop on Privacy in the Electronic Society
+  link: https://wpes2021.di.unimi.it/
+  deadline: "2021-07-16 23:59"
+  timezone: GMT-11
+  place: Seul, South Korea
+  core: N
+  esp: 0
+
 - title: S&P (Oakland) 
   year: 2022
   date: "May 22 – 26 2022"
