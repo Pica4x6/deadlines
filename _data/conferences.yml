@@ -201,15 +201,15 @@
 
 - title: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2021
-  link: https://www.ieee-security.org/TC/CSF2021/
+  year: 2022
+  link: https://www.ieee-security.org/TC/CSF2022/
   deadline:
     - "%y-02-07 23:59"
-    - "%y-05-08 23:59"
-    - "%y-10-02 23:59"
+    - "%y-05-14 23:59"
+    - "%y-10-01 23:59"
   comment: Rolling deadline every quarter
-  date: June 21-25
-  place: Dubrovnik, Croatia
+  date: August
+  place: Haifa, Israel
   core: A
   esp: 2
 
