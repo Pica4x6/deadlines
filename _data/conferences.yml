@@ -79,6 +79,16 @@
   core: AAA
   esp: 1
 
+- title: CoNEXT
+  description: International Conference on emerging Networking EXperiments and Technologies
+  year: 2021
+  link: https://conferences2.sigcomm.org/co-next/2021
+  deadline: "2021-06-28 23:59"
+  date: "December 6-10"
+  place: Online
+  core: A
+  esp: 2
+
 - title: ICWS
   description: International Conference on Web Services
   year: 2021
