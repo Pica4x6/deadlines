@@ -9,6 +9,17 @@
   place: Virtual
   core: N
   esp: 0
+  
+- title: CODASPY
+  year: 2022
+  date: "April 24–26"
+  description: Secure Development Conference
+  link: http://www.codaspy.org/2022
+  deadline: "2021-10-4 23:59"
+  comment: Abstract submission deadline September 27
+  place: Baltimore-Washington DC, USA
+  core: N
+  esp: 0
 
 - title: WPES
   year: 2021
