@@ -117,7 +117,7 @@
   deadline: "2021-07-01 23:59"
   date: "October 26-29"
   place: Melbourne, Australia
-  core: A
+  core: B
   esp: 3
 
 - title: AsiaCCS
@@ -129,7 +129,7 @@
     - "2021-11-19 23:59"
   date: "May 30-1"
   place: Nagasaki, Japan
-  core: B
+  core: A
   esp: 2
 
 - title: Usenix
@@ -217,7 +217,7 @@
   comment: Rolling deadline every quarter
   date: July 18-23
   place: Sydney, Australia
-  core: B
+  core: A
   esp: 3
 
 - title: FC
@@ -227,7 +227,7 @@
   deadline: "2021-09-02"
   date: "February 11-18"
   place: Radisson Grenada Beach Resort, Grenada
-  core: B
+  core: A
   esp: 2
 
 - title: ICISC
@@ -274,7 +274,7 @@
   deadline: "2021-06-28 23:59"
   date: "Dec 6-10"
   place: Austin, TX, USA
-  core: AAA
+  core: A
   esp: 1
 
 - title: IMC
@@ -298,7 +298,7 @@
   - "2022-01-14 23:59"
   date: "June 22-26"
   place: Rome, Italy
-  core: A
+  core: B
   esp: 2
 
 - title: TrustCom
@@ -308,7 +308,7 @@
   deadline: "2021-04-20 23:59"
   date: "August 18-20"
   place: Shenyang, China
-  core: A
+  core: B
   esp: 3
 
 - title: IFIPSec
