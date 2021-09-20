@@ -234,7 +234,7 @@
   description: International Conference on Information Security and Cryptology
   year: 2021
   link: http://www.icisc.org/
-  deadline: "2021-09-07 18:00"
+  deadline: "2021-09-17 18:00"
   timezone: KST
   date: "Dec 1-3"
   place: Seul, Korea
@@ -364,10 +364,10 @@
 
 - title: ARES
   description: Conference on Availability, Reliability and Security
-  year: 2021
+  year: 2022
   link: https://www.ares-conference.eu/conference-2021/cfp2021/
   deadline: "2021-03-25 23:59"
-  date: "August 17–20"
+  date: "August 23–26"
   place: Vienna, Austria
   core: B
   esp: 3
