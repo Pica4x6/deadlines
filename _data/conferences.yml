@@ -323,11 +323,11 @@
 
 - title: IFIPSec
   description: Information Security and Privacy Protection
-  year: 2021
+  year: 2022
   link: https://www.ifipsec.org/
-  deadline: "2021-02-15"
-  date: "June 22-24"
-  place: Oslo, Norway
+  deadline: "2022-01-15"
+  date: "June 13-17"
+  place: Copenhaguen, Denmark
   core: B
   esp: 3
 
