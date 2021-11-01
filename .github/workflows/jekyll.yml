@@ -7,19 +7,26 @@ on:
     branches: [ master ]
 
 jobs:
-    build-deploy:
-      name: Build and deploy
+  jekyll:
+    runs-on: ubuntu-16.04
+    steps:
+    - uses: actions/checkout@v2
 
-      runs-on: ubuntu-latest
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
 
-      steps:
-        - name: Checkout 🛎️
-          uses: actions/checkout@v2
+    # Standard usage
+    - uses:  helaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-        - name: Build Jekyll site
-          run: |
-            docker run \
-              -v ${{ github.workspace }}:/srv/jekyll \
-              jekyll/builder:4.2.0 \
-              /bin/bash -c 'chmod 777 /srv/jekyll && bundle exec jekyll build --future'
-
+    # Specify the Jekyll source location as a parameter
+    - uses: helaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        jekyll_src: 'sample_site'
