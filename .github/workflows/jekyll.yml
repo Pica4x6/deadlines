@@ -7,10 +7,13 @@ on:
     branches: [ master ]
 
 jobs:
-  github-pages:
+  build:
+    name: Build website
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Checkout repository
+      uses: actions/checkout@v1
+      with:
+        ref: master
+    - name: Run Jekyll
+      uses: docker://faph/action-jekyll:1.5
