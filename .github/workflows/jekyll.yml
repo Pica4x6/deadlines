@@ -21,12 +21,12 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Standard usage
-    - uses:  Pica4x6/sp-deadlines.github.io
+    - uses:  Pica4x6/sp-deadlines.github.io@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
     # Specify the Jekyll source location as a parameter
-    - uses: Pica4x6/sp-deadlines.github.io
+    - uses: Pica4x6/sp-deadlines.github.io@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         jekyll_src: '_site'
