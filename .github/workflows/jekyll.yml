@@ -14,6 +14,11 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+      
+    - name: 🔨 Build site
+      run: |
+        mkdir .jekyll-cache _site
+        docker run --rm -v ${{ github.workspace }}:/srv/jekyll jekyll/builder:latest jekyll build
 
-    - name: Build
-      uses: jerryjvl/jekyll-build-action@v1
+#    - name: Build
+#      uses: jerryjvl/jekyll-build-action@v1
