@@ -30,6 +30,16 @@
   place: Baltimore-Washington DC, USA
   core: N
   esp: 0
+  
+- title: ICISSP
+  year: 2022
+  date: "February 9–11"
+  description: International Conference on Information Systems Security and Privacy
+  link: https://icissp.scitevents.org/Home.aspx
+  deadline: "2021-11-08 23:59"
+  place: online
+  core: C
+  esp: 0
 
 - title: WPES
   year: 2021
