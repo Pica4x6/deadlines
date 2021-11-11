@@ -177,17 +177,6 @@
   place: San Diego, CA, USA
   core: AAA
   esp: 1
-  
-- title: DSN
-  description: Dependable Systems and Networks
-  year: 2022
-  link: https://dsn2022.github.io
-  deadline: "2021-12-10 23:59"
-  comment: Title and abstract deadline on Dec, 3th
-  date: June 27-30
-  place: Baltimore, Maryland
-  core: A
-  esp: 2
 
 - title: ESORICS
   description: European Symposium on Research in Computer Security
