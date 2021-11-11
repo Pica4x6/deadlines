@@ -10,6 +10,17 @@
   core: N
   esp: 0
 
+- title: DSN
+   description: Dependable Systems and Networks
+   year: 2022
+   link: https://dsn2022.github.io
+   deadline: "2021-12-10 23:59"
+   comment: Title and abstract deadline on Dec, 3th
+   date: June 27-30
+   place: Baltimore, Maryland
+   core: A
+   esp: 2
+
 - title: SAC
   year: 2022
   date: "April 25–29"
