@@ -236,6 +236,7 @@
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   date: July 18-23
+  timezone: UTC-11
   place: Sydney, Australia
   core: A
   esp: 3
