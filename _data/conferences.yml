@@ -42,6 +42,16 @@
   core: N
   esp: 0
   
+- title: QUATIC
+  year: 2022
+  date: "September 12–14"
+  description: Quality of Information and Communications Technology
+  link: https://2022.quatic.org/
+  deadline: "2022-04-08 23:59"
+  place: Talavera de la Reina, Spain
+  core: C
+  esp: 0
+  
 - title: ICISSP
   year: 2022
   date: "February 9–11"
