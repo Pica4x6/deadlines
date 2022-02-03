@@ -425,11 +425,11 @@
 
 - title: DIMVA
   description: Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2021
+  year: 2022
   link: https://sites.unica.it/dimva2022
-  deadline: "2021-03-01 23:59"
-  date: "July 14–16"
-  place: Lisboa, Portugal
+  deadline: "2022-03-10 23:59"
+  date: "June 29-30"
+  place: Cagliari, Italy
   core: C
   esp: 3
 
