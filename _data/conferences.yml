@@ -309,13 +309,13 @@
 
 - title: IMC
   description: Internet Measurement Conference
-  year: 2021
-  link: https://conferences.sigcomm.org/imc/2021/
-  deadline: "2021-05-19 23:59"
-  comment: Title and abstract deadline on May 19th
-  timezone: UTC-7
-  date: "November 2-4"
-  place: Online
+  year: 2022
+  link: https://conferences.sigcomm.org/imc/2022/
+  deadline: "2021-05-18 23:59"
+  comment: Title and abstract deadline on May 11th
+  timezone: UTC-12
+  date: "October 25-27"
+  place: Nice, France
   core: AAA
   esp: 1
 
