@@ -153,11 +153,12 @@
 
 - title: WISE
   description: Conference on Web Information Systems Engineering
-  year: 2021
-  link: http://www.wise-conferences.org/2021/call-for-papers.html
-  deadline: "2021-07-01 23:59"
-  date: "October 26-29"
-  place: Melbourne, Australia
+  year: 2022
+  comment: Abstract Submission: April 1st, 2022
+  link: https://wise2022.sigappfr.org
+  deadline: "2022-04-08 23:59"
+  date: "October 31-1"
+  place: Biarritz, France
   core: B
   esp: 3
 
