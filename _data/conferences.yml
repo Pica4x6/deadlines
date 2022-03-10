@@ -290,11 +290,11 @@
 
 - title: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2021
-  link: https://www.raid2021.org/
-  deadline: "2021-03-26 23:59"
-  date: October 6-8
-  place: Donostia/San Sebastian, Spain
+  year: 2022
+  link: https://raid2022.cs.ucy.ac.cy
+  deadline: "2022-03-31 23:59"
+  date: October 26-28
+  place: Limassol, Cyprus
   core: A
   esp: 2
 
@@ -428,7 +428,7 @@
   description: Detection of Intrusions and Malware & Vulnerability Assessment
   year: 2022
   link: https://sites.unica.it/dimva2022
-  deadline: "2022-03-10 23:59"
+  deadline: "2022-03-17 23:59"
   date: "June 29-30"
   place: Cagliari, Italy
   core: C
