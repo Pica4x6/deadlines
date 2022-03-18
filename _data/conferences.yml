@@ -5,7 +5,7 @@
   date: "October 18–20"
   description: Secure Development Conference
   link: https://secdev.ieee.org/2022
-  deadline: "2021-06-04 23:59"
+  deadline: "2022-06-03 23:59"
   place: Georgia Tech Conference Center Atlanta, GA
   core: N
   esp: 0
@@ -135,7 +135,7 @@
   description: International Conference on emerging Networking EXperiments and Technologies
   year: 2022
   link: https://conferences2.sigcomm.org/co-next/2022
-  deadline: "2021-06-28 23:59"
+  deadline: "2022-06-29 23:59"
   date: "December 6-9"
   place: Rome, Italy
   core: A
@@ -143,10 +143,10 @@
 
 - title: ICWS
   description: International Conference on Web Services
-  year: 2021
-  link: http://icws.org/2021
+  year: 2022
+  link: http://icws.org/2022
   deadline: "2021-05-14 23:59"
-  date: "September 18-22"
+  date: "December 10-14"
   place: Online
   core: A
   esp: 2
@@ -300,8 +300,8 @@
 
 - title: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2021
-  link: https://www.acsac.org/2021/
+  year: 2022
+  link: https://www.acsac.org/2022/
   deadline: "2021-06-28 23:59"
   date: "Dec 6-10"
   place: Austin, TX, USA
@@ -366,10 +366,10 @@
 - title: CANS
   description: Conference on Cryptology And Network Security
   year: 2021
-  link: https://cans2021.at/
+  link: https://www.cans2022.com
   deadline: "2021-06-17 23:59"
   date: "December 13–15"
-  place: Vienna, Austria
+  place: Abu Dhabi, UAE
   core: B
   esp: 0
 
