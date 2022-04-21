@@ -302,8 +302,8 @@
   description: Annual Computer Security Applications Conference
   year: 2022
   link: https://www.acsac.org/2022/
-  deadline: "2021-06-28 23:59"
-  date: "Dec 6-10"
+  deadline: "2022-06-29 23:59"
+  date: "Dec 5-09"
   place: Austin, TX, USA
   core: A
   esp: 1
@@ -334,11 +334,11 @@
 
 - title: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2021
-  link: https://trustcom2021.sau.edu.cn
-  deadline: "2021-04-20 23:59"
-  date: "August 18-20"
-  place: Shenyang, China
+  year: 2022
+  link: http://www.ieee-hust-ncc.org/2022/TrustCom/
+  deadline: "2021-07-01 23:59"
+  date: "October 28-30"
+  place: Wuhan, China
   core: B
   esp: 3
 
@@ -365,9 +365,9 @@
 
 - title: CANS
   description: Conference on Cryptology And Network Security
-  year: 2021
+  year: 2022
   link: https://www.cans2022.com
-  deadline: "2021-06-17 23:59"
+  deadline: "2022-05-29 23:59"
   date: "December 13–15"
   place: Abu Dhabi, UAE
   core: B
