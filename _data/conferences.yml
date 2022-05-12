@@ -336,7 +336,7 @@
   description: International Conference on Trust, Security and Privacy in Computing and Communications
   year: 2022
   link: http://www.ieee-hust-ncc.org/2022/TrustCom/
-  deadline: "2021-07-01 23:59"
+  deadline: "2022-07-01 23:59"
   date: "October 28-30"
   place: Wuhan, China
   core: B
@@ -405,11 +405,11 @@
 
 - title: NSS
   description: Conference on Network and System Security
-  year: 2021
-  link: http://nsclab.org/nss2021/
+  year: 2022
+  link: http://nsclab.org/nss2022/
   deadline: "2021-07-10 23:59"
   date: "Oct 22–24"
-  place: Tianjin, China
+  place: Denarau Island, Fiji
   core: B
   esp: 0
 
