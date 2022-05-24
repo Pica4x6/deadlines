@@ -145,7 +145,8 @@
   description: International Conference on Web Services
   year: 2022
   link: http://icws.org/2022
-  deadline: "2021-05-14 23:59"
+  comment: Early-birds paper submission due: June 26, 2022. Review comments to Early-birds paper submission: July 20, 2022
+  deadline: "2022-08-15 23:59"
   date: "December 10-14"
   place: Online
   core: A
@@ -407,8 +408,8 @@
   description: Conference on Network and System Security
   year: 2022
   link: http://nsclab.org/nss2022/
-  deadline: "2021-07-10 23:59"
-  date: "Oct 22–24"
+  deadline: "2022-08-15 23:59"
+  date: "Dec 9–12"
   place: Denarau Island, Fiji
   core: B
   esp: 0
