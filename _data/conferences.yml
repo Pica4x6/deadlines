@@ -467,11 +467,12 @@
 
 - title: QRS
   description: Quality, Reliability, and Security
-  year: 2021
-  link: https://qrs21.techconf.org
-  deadline: "2021-09-01 23:59"
-  date: "December 6-10"
-  place: Hainan, China
+  year: 2022
+  link: https://qrs22.techconf.org
+  comment: Abtract due 10 Aug
+  deadline: "2022-09-17 23:59"
+  date: "December 5-09"
+  place: Guangzhou, China
   core: B
   esp: 3
 
