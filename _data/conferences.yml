@@ -464,6 +464,16 @@
   place: Santa Barbara, California, EEUU.
   core: C
   esp: 3
+  
+- title: ISPEC
+  description: Information Security Practice and Experience Conference
+  year: 2022
+  link: https://ispec2022.ndhu.edu.tw/index.html#home
+  deadline: "2022-06-30 23:59"
+  date: "November 23-25"
+  place: Taipei, Taiwan
+  core: B
+  esp: 0
 
 - title: QRS
   description: Quality, Reliability, and Security
