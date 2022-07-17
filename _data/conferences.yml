@@ -53,12 +53,12 @@
   esp: 0
   
 - title: ICISSP
-  year: 2022
-  date: "February 9–11"
+  year: 2023
+  date: "February 16–18"
   description: International Conference on Information Systems Security and Privacy
   link: https://icissp.scitevents.org/Home.aspx
-  deadline: "2021-11-08 23:59"
-  place: online
+  deadline: "2022-10-10 23:59"
+  place: Lisbon, Portugal
   core: C
   esp: 0
 
