@@ -177,15 +177,15 @@
 
 - title: Usenix
   description: Usenix Security Symposium
-  year: 2022
-  link: https://www.usenix.org/conference/usenixsecurity22
+  year: 2023
+  link: https://www.usenix.org/conference/usenixsecurity23
   deadline:
-    - "2021-06-08 23:59"
-    - "%y-10-12 23:59"
-    - "%y-02-01 23:59"
+    - "%y-06-07 23:59"
+    - "%y-10-11 23:59"
+    - "%y-02-07 23:59"
   comment: Rolling deadline every four months.
-  date: "August 10-12"
-  place: Boston, MA.
+  date: "August 09-11"
+  place: ANAHEIM, CA
   core: AAA
   esp: 1
 
