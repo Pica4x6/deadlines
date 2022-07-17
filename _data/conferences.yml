@@ -87,13 +87,13 @@
   esp: 1
 
 - title: WWW
-  year: 2022
-  date: "April 25–29"
+  year: 2023
+  date: "May 01–05"
   description: The Web Conference
-  link: http://www2022.thewebconf.org/
-  deadline: "2021-10-21 23:59"
+  link: http://www2023.thewebconf.org/
+  deadline: "2022-10-06 23:59"
   comment: Abstract submission deadline October 14
-  place: Lyon, France
+  place: Austin, TX
   core: AAA
   esp: 1
 
