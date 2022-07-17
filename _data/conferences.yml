@@ -22,12 +22,12 @@
   esp: 2
 
 - title: SAC
-  year: 2022
-  date: "April 25–29"
+  year: 2023
+  date: "March 27–31"
   description: Symposium On Applied Computing
-  link: http://www.sigapp.org/sac/sac2022/
-  deadline: "2021-10-24 23:59"
-  place: Brno, Czech Republic
+  link: http://www.sigapp.org/sac/sac2023/
+  deadline: "2022-10-01 23:59"
+  place: Tallinn, Estonia
   core: B
   esp: 2
 
