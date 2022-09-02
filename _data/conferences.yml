@@ -12,12 +12,12 @@
 
 - title: DSN
   description: Dependable Systems and Networks
-  year: 2022
-  link: https://dsn2022.github.io
-  deadline: "2021-12-10 23:59"
+  year: 2023
+  link: https://dsn2023.dei.uc.pt
+  deadline: "2022-12-01 23:59"
   comment: Title and abstract deadline on Dec, 3th
   date: June 27-30
-  place: Baltimore, Maryland
+  place: Porto, Portugal
   core: A
   esp: 2
 
@@ -36,7 +36,7 @@
   date: "April 24–26"
   description: Secure Development Conference
   link: http://www.codaspy.org/2023
-  deadline: "2021-10-15 23:59"
+  deadline: "2022-10-03 23:59"
   comment: Abstract submission deadline October 8
   place: Baltimore-Washington DC, USA
   core: N
@@ -63,13 +63,13 @@
   esp: 0
 
 - title: WPES
-  year: 2021
+  year: 2022
   date: "November 15"
   description: Workshop on Privacy in the Electronic Society
   link: https://wpes2021.di.unimi.it/
-  deadline: "2021-07-16 23:59"
+  deadline: "2022-08-01 23:59"
   timezone: GMT-11
-  place: Seul, South Korea
+  place: Los Angeles, USA (and online)
   core: N
   esp: 0
 
@@ -217,11 +217,11 @@
 - title: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
   year: 2022
-  link: https://www.usenix.org/conference/soups2022
+  link: https://www.usenix.org/conference/soups2023
   deadline: "2022-02-11 23:59"
   comment: Collocated with Usenix Security
   date: August 7-9
-  place: Boston, MA, EEUU
+  place: Anaheim, CA 92802 USA
   core: B
   esp: 2
   
