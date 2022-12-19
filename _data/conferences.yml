@@ -120,14 +120,14 @@
 
 - title: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2022
+  year: 2023
   link: https://www.sigsac.org/ccs/CCS2022
   deadline:
     - "%y-01-14 23:59"
     - "%y-05-02 23:59"
   comment: 2 review cycles
   date: "November 9-13"
-  place: Los Angeles, EEUU
+  place: Copenhagen, Denmark
   core: AAA
   esp: 1
 
@@ -420,8 +420,8 @@
   year: 2023
   link: https://pstnet.ca/
   deadline: "2022-04-08 23:59"
-  date: "Agost 21–23"
-  place: Copenhaguen, Denmark
+  date: "August 21–23"
+  place: Copenhagen, Denmark
   core: C
   esp: 0
 
