@@ -212,7 +212,7 @@
   date: September 25-29
   place: The Hague, The Netherlands
   core: A
-  esp: 2
+  esp: 1
 
 - title: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
@@ -250,7 +250,7 @@
   timezone: UTC-12
   place: Lausanne, Switzerland
   core: A
-  esp: 3
+  esp: 2
 
 - title: FC
   description: Financial Cryptography and Data Security
@@ -297,7 +297,7 @@
   date: October 16-18
   place: Hong Kong Polytechnic University
   core: A
-  esp: 2
+  esp: 1
 
 - title: ACSAC
   description: Annual Computer Security Applications Conference
