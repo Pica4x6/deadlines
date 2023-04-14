@@ -23,11 +23,11 @@
 
 - title: SAC
   year: 2023
-  date: "March 27–31"
+  date: "April 08–12"
   description: Symposium On Applied Computing
-  link: http://www.sigapp.org/sac/sac2023/
+  link: http://www.sigapp.org/sac/sac2024/
   deadline: "2022-10-01 23:59"
-  place: Tallinn, Estonia
+  place: Ávila, Spain
   core: B
   esp: 2
 
@@ -154,12 +154,12 @@
 
 - title: WISE
   description: Conference on Web Information Systems Engineering
-  year: 2022
+  year: 2023
   comment: Abstract Submission April 1st, 2022
-  link: https://wise2022.sigappfr.org
+  link: http://www.wise-conferences.org/2023/
   deadline: "2022-04-08 23:59"
-  date: "October 31-1"
-  place: Biarritz, France
+  date: "October 25-27"
+  place: Melbourne, Australia
   core: B
   esp: 3
 
