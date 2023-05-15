@@ -87,13 +87,13 @@
   esp: 1
 
 - title: WWW
-  year: 2023
-  date: "May 01–05"
+  year: 2024
+  date: "May 13–17"
   description: The Web Conference
-  link: http://www2023.thewebconf.org/
+  link: http://www2024.thewebconf.org/
   deadline: "2022-10-06 23:59"
   comment: Abstract submission deadline October 14
-  place: Austin, TX
+  place: Singapore
   core: AAA
   esp: 1
 
