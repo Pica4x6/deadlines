@@ -276,15 +276,15 @@
 
 - title: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2023
-  link: https://www.ieee-security.org/TC/CSF2023/
+  year: 2024
+  link: https://www.ieee-security.org/TC/CSF2024/
   deadline:
     - "%y-02-03 23:59"
-    - "%y-05-13 23:59"
+    - "%y-05-15 23:59"
     - "%y-09-30 23:59"
   comment: Rolling deadline every quarter
-  date: July 10-14
-  place: Dubrovnik, Croatia
+  date: July 8-12
+  place: Enschede, The Netherlands
   core: A
   esp: 2
 
