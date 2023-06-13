@@ -91,8 +91,8 @@
   date: "May 13–17"
   description: The Web Conference
   link: http://www2024.thewebconf.org/
-  deadline: "2022-10-06 23:59"
-  comment: Abstract submission deadline October 14
+  deadline: "2023-10-12 23:59"
+  comment: Abstract submission deadline October 5
   place: Singapore
   core: AAA
   esp: 1
@@ -101,17 +101,17 @@
   year: 2023
   date: "May 17–20"
   description: Conference on Computer Communications
-  link: http://www.ieee-infocom.org/2023
-  deadline: "2022-07-31 23:59"
+  link: http://www.ieee-infocom.org/2024
+  deadline: "2023-07-31 23:59"
   comment: Abstract submission deadline July 24
-  place: New York
+  place: Vancouver, Canada
   core: AAA
   esp: 1
 
 - title: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2023
-  link: https://www.ieee-security.org/TC/EuroSP2023
+  link: https://www.ieee-security.org/TC/EuroSP2024
   deadline: "2022-10-26 23:59"
   date: "Jul 4-6"
   place: Delft, The Netherlands
@@ -255,7 +255,7 @@
 - title: FC
   description: Financial Cryptography and Data Security
   year: 2023
-  link: https://fc23.ifca.ai
+  link: https://fc24.ifca.ai
   deadline: "2022-09-19"
   date: "February 11-18"
   place: Europe
@@ -323,13 +323,13 @@
 
 - title: ACNS
   description: International Conference on Applied Cryptography and Network Security
-  year: 2023
-  link: https://sulab-sever.u-aizu.ac.jp/ACNS2023/
+  year: 2024
+  link: https://wp.nyu.edu/acns2024/
   deadline:
   - "2022-09-08 23:59"
   - "2023-01-12 23:59"
   date: "June 22-26"
-  place: Kioto, Japan
+  place: Abu Dhabi, UAE
   core: B
   esp: 2
 
