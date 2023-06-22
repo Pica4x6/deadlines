@@ -73,13 +73,13 @@
   esp: 0
 
 - title: WPES
-  year: 2022
-  date: "November 15"
+  year: 2023
+  date: "November 26"
   description: Workshop on Privacy in the Electronic Society
-  link: https://wpes2021.di.unimi.it/
-  deadline: "2022-08-01 23:59"
-  timezone: GMT-11
-  place: Los Angeles, USA (and online)
+  link: https://www.wpes2023.conf.kth.se/cfp.html
+  deadline: "2023-07-24 23:59"
+#  timezone: GMT-11
+  place: Copenhagen, Denmark
   core: N
   esp: 0
 
