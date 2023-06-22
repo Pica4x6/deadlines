@@ -187,15 +187,15 @@
 
 - title: Usenix
   description: Usenix Security Symposium
-  year: 2023
-  link: https://www.usenix.org/conference/usenixsecurity23
+  year: 2024
+  link: https://www.usenix.org/conference/usenixsecurity24
   deadline:
-    - "%y-06-07 23:59"
-    - "%y-10-11 23:59"
-    - "%y-02-07 23:59"
+    - "%y-06-06 23:59"
+    - "%y-10-17 23:59"
+    - "%y-02-08 23:59"
   comment: Rolling deadline every four months.
-  date: "August 09-11"
-  place: ANAHEIM, CA
+  date: "August 14-16"
+  place: PHILADELPHIA, PA, USA
   core: AAA
   esp: 1
 
