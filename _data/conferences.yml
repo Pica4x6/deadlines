@@ -15,7 +15,7 @@
   date: "October 2–3"
   description: Conference on Source Code Analysis & Manipulation
   link: http://www.ieee-scam.org/2023/
-  deadline: "2023-07-06 23:59"
+  deadline: "2023-07-13 23:59"
   place: Bogotá, Colombia
   core: C
   esp: 3
@@ -120,11 +120,11 @@
 
 - title: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2023
+  year: 2024
   link: https://www.ieee-security.org/TC/EuroSP2024
-  deadline: "2022-10-26 23:59"
-  date: "Jul 4-6"
-  place: Delft, The Netherlands
+  deadline: "2023-11-02 23:59"
+  date: "Jul 8-12"
+  place: Vienna, Austria
   core: A
   esp: 0
 
