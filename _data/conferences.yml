@@ -22,12 +22,12 @@
 
 - title: DSN
   description: Dependable Systems and Networks
-  year: 2023
-  link: https://dsn2023.dei.uc.pt
-  deadline: "2022-12-01 23:59"
-  comment: Title and abstract deadline on Dec, 3th
-  date: June 27-30
-  place: Porto, Portugal
+  year: 2024
+  link: https://dsn2024uq.github.io
+  deadline: "2023-12-06 23:59"
+  comment: Title and abstract deadline Nov, 29
+  date: June 24-27
+  place: Brisbane, Australia
   core: A
   esp: 2
 
@@ -42,13 +42,13 @@
   esp: 2
 
 - title: CODASPY
-  year: 2023
+  year: 2024
   date: "April 24–26"
   description: Secure Development Conference
-  link: http://www.codaspy.org/2023
-  deadline: "2022-10-03 23:59"
-  comment: Abstract submission deadline October 8
-  place: Baltimore-Washington DC, USA
+  link: http://www.codaspy.org/2024
+  deadline: "2023-12-18 23:59"
+  comment: Abstract submission deadline Dec 11
+  place: Porto, Portugal
   core: N
   esp: 0
   
@@ -355,11 +355,11 @@
 
 - title: IFIPSec
   description: Information Security and Privacy Protection
-  year: 2023
-  link: https://www.ifipsec.org
-  deadline: "2023-02-27"
+  year: 2024
+  link: https://ifipsec2024.co.uk
+  deadline: "2024-21-15"
   date: "June 14-16"
-  place: Poznan, Poland
+  place: Edinburgh, UK
   core: B
   esp: 3
 
@@ -437,13 +437,13 @@
 
 - title: DIMVA
   description: Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2023
-  link: https://dimva2023.de
+  year: 2024
+  link: https://www.dimva.org/dimva2024/
   deadline:
-  - "2022-12-09 23:59"
-  - "2023-02-01 23:59"
-  date: "June 29-30"
-  place: Hamburg, Germany
+  - "2023-12-06 23:59"
+  - "2023-02-14 23:59"
+  date: "July 17-19"
+  place: Lausanne, Switzerland
   core: C
   esp: 3
 
