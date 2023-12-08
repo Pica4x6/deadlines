@@ -226,12 +226,12 @@
 
 - title: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
-  year: 2023
-  link: https://www.usenix.org/conference/soups2023/call-for-papers
+  year: 2024
+  link: https://www.usenix.org/conference/soups2024
   deadline: "2023-02-16 23:59"
   comment: Collocated with Usenix Security
-  date: August 6-8
-  place: Anaheim, CA 92802 USA
+  date: August 11-13
+  place: Philadelphia, PA, USA
   core: B
   esp: 2
   
@@ -386,11 +386,13 @@
 
 - title: ICICS
   description: Conference on Information and Communications Security
-  year: 2023
-  link: https://icics23.nankai.edu.cn
-  deadline: "2023-03-30 23:59"
-  date: "November 18–20"
-  place: Nankai University, Tianjin, China
+  year: 2024
+  link: https://icics2024.aegean.gr
+  deadline:
+  - "2024-02-02 23:59"
+  - "2024-04-19 23:59"
+  date: "August 26–30"
+  place: Mytilene, Lesvos, Greece
   core: B
   esp: 3
 
