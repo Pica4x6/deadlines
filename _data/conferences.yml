@@ -366,12 +366,11 @@
 
 - title: ISC
   description: The Information Security Conference
-  year: 2023
-  link: https://isc23.cs.rug.nl/docs/home/
-  deadline: "2023-07-27 23:59"
-  timezone: GMT
-  date: "December 18–22"
-  place: Groningen, The Netherlands
+  year: 2024
+  link: https://isc24.cs.gmu.edu
+  deadline: "2024-06-06 23:59"
+  date: "October 23–25"
+  place: Washington DC, USA
   core: B
   esp: 3
 
@@ -483,11 +482,11 @@
   
 - title: ISPEC
   description: Information Security Practice and Experience Conference
-  year: 2023
-  link: https://ispec2023.compute.dtu.dk
+  year: 2024
+  link: https://ispec2024.github.io/ISPEC2024/
   deadline: "2023-06-30 23:59"
   date: "August 24-25"
-  place: Copenhagen, Denmark
+  place: Wuhan, China
   core: B
   esp: 0
 
