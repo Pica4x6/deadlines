@@ -33,11 +33,11 @@
 
 - title: SAC
   year: 2025
-  date: "April 08–12"
+  date: "March 31–04"
   description: Symposium On Applied Computing
   link: http://www.sigapp.org/sac/sac2025/
   deadline: "2023-10-13 23:59"
-  place: Ávila, Spain
+  place: Catania, Italy
   core: B
   esp: 2
 
@@ -334,13 +334,13 @@
 
 - title: ACNS
   description: International Conference on Applied Cryptography and Network Security
-  year: 2024
-  link: https://wp.nyu.edu/acns2024/
+  year: 2025
+  link: https://fordaysec.de/en/event/acns-2025
   deadline:
-  - "2023-07-20 23:59"
-  - "2023-10-17 23:59"
-  date: "March 5-8"
-  place: Abu Dhabi, UAE
+  - "2024-09-09 23:59"
+  - "2025-01-13 23:59"
+  date: "June 23-26"
+  place: Munich, Germany
   core: B
   esp: 2
 
