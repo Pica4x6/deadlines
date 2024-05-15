@@ -154,12 +154,12 @@
 
 - title: ICWS
   description: International Conference on Web Services
-  year: 2023
-  link: http://icws.org/2023
-  deadline: "2023-08-10 23:59"
-  date: "September 23-26,"
-  comment: Early-birds papers May 14, 2023. Review comments to Early-birds papers June 14, 2023
-  place: Honolulu, Hawaii, USA
+  year: 2024
+  link: https://www.servicessociety.org/icws
+  deadline: "2024-08-15 23:59"
+  date: "November 16-19,"
+  comment: Early-birds papers May 6, 2024. Review comments to Early-birds papers June 20, 2023
+  place: Bangkok, Thailand
   core: A
   esp: 2
 
