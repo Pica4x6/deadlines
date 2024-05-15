@@ -202,12 +202,12 @@
 
 - title: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2024
-  link: https://www.ndss-symposium.org
+  year: 2025
+  link: https://www.ndss-symposium.org/ndss2025/
   deadline:
-    - "%y-04-19 23:59"
-    - "%y-06-28 23:59"
-  date: February 27-4
+    - "%y-04-17 23:59"
+    - "%y-07-10 23:59"
+  date: February 23-28
   place: San Diego, CA, USA
   core: AAA
   esp: 1
@@ -218,7 +218,7 @@
   link: https://esorics2024.org
   deadline:
     - "2024-01-08 23:59"
-    - "2024-05-19 23:59"
+    - "2024-04-19 23:59"
   comment: Title and abstract deadline 7 days before the deadline
   date: September 16-20
   place: Bydgoszcz, Poland
