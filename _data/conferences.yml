@@ -22,12 +22,12 @@
 
 - title: DSN
   description: Dependable Systems and Networks
-  year: 2024
-  link: https://dsn2024uq.github.io
-  deadline: "2023-12-06 23:59"
-  comment: Title and abstract deadline Nov, 29
-  date: June 24-27
-  place: Brisbane, Australia
+  year: 2025
+  link: https://dsn2025.github.io
+  deadline: "2024-12-04 23:59"
+  comment: Title and abstract deadline Nov, 27
+  date: June 23-26
+  place: Naples, Italy
   core: A
   esp: 2
 
@@ -119,11 +119,11 @@
 
 - title: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2024
-  link: https://www.ieee-security.org/TC/EuroSP2024
+  year: 2025
+  link: https://www.ieee-security.org/TC/EuroSP2025
   deadline: "2023-11-02 23:59"
-  date: "Jul 8-12"
-  place: Vienna, Austria
+  date: "June 30-04"
+  place: Venice, Italy
   core: A
   esp: 0
 
@@ -275,9 +275,9 @@
 
 - title: ICISC
   description: International Conference on Information Security and Cryptology
-  year: 2023
+  year: 2024
   link: http://www.icisc.org/
-  deadline: "2023-09-15 18:00"
+  deadline: "2024-09-04 18:00"
   timezone: KST
   date: "Nov 29-3"
   place: Seul, Korea
@@ -484,7 +484,7 @@
   description: Information Security Practice and Experience Conference
   year: 2024
   link: https://ispec2024.github.io/ISPEC2024/
-  deadline: "2023-06-30 23:59"
+  deadline: "2024-06-30 23:59"
   date: "August 24-25"
   place: Wuhan, China
   core: B
