@@ -121,7 +121,7 @@
   description: IEEE European Symposium on Security and Privacy
   year: 2025
   link: https://www.ieee-security.org/TC/EuroSP2025
-  deadline: "2023-11-02 23:59"
+  deadline: "2024-10-24 23:59"
   date: "June 30-04"
   place: Venice, Italy
   core: A
@@ -264,11 +264,11 @@
 
 - title: FC
   description: Financial Cryptography and Data Security
-  year: 2023
-  link: https://fc24.ifca.ai
-  deadline: "2022-09-19"
-  date: "February 11-18"
-  place: Europe
+  year: 2025
+  link: https://fc25.ifca.ai/cfp.html
+  deadline: "2024-10-08"
+  date: "14–18 April"
+  place: Miyakojima, Japan
   core: A
   esp: 2
 
