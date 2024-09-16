@@ -248,7 +248,7 @@
 
 - title: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2024
+  year: 2025
   link: https://petsymposium.org
   deadline:
     - "%y-05-31 23:59"
@@ -258,7 +258,7 @@
   comment: Rolling deadline every quarter
   date: July 15-20
   timezone: UTC-12
-  place: Bristol, UK
+  place: Washington, DC and Online
   core: A
   esp: 2
 
