@@ -286,15 +286,15 @@
 
 - title: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2024
-  link: https://www.ieee-security.org/TC/CSF2024/
+  year: 2025
+  link: https://www.ieee-security.org/TC/CSF2025/
   deadline:
-    - "%y-02-03 23:59"
-    - "%y-05-15 23:59"
-    - "%y-09-30 23:59"
+    - "%y-02-04 23:59"
+    - "%y-05-28 23:59"
+    - "%y-10-01 23:59"
   comment: Rolling deadline every quarter
-  date: July 8-12
-  place: Enschede, The Netherlands
+  date: June/July
+  place: Santa Cruz, CA, USA
   core: A
   esp: 2
 
