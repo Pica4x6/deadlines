@@ -42,13 +42,13 @@
   esp: 2
 
 - title: CODASPY
-  year: 2024
-  date: "April 24–26"
+  year: 2025
+  date: "June 4–6"
   description: Secure Development Conference
-  link: http://www.codaspy.org/2024
-  deadline: "2023-12-18 23:59"
-  comment: Abstract submission deadline Dec 11
-  place: Porto, Portugal
+  link: http://www.codaspy.org/2025
+  deadline: "2024-12-06 23:59"
+  comment: Abstract submission deadline Dec 1
+  place: Pittsburgh, USA
   core: N
   esp: 0
   
