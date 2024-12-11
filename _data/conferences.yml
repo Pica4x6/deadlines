@@ -46,7 +46,7 @@
   date: "June 4–6"
   description: Secure Development Conference
   link: http://www.codaspy.org/2025
-  deadline: "2024-12-06 23:59"
+  deadline: "2024-12-16 23:59"
   comment: Abstract submission deadline Dec 1
   place: Pittsburgh, USA
   core: N
@@ -107,13 +107,13 @@
   esp: 1
 
 - title: INFOCOM
-  year: 2023
+  year: 2025
   date: "May 17–20"
   description: Conference on Computer Communications
   link: http://www.ieee-infocom.org/2024
-  deadline: "2023-07-31 23:59"
+  deadline: "2024-07-31 23:59"
   comment: Abstract submission deadline July 24
-  place: Vancouver, Canada
+  place: London, UK
   core: AAA
   esp: 1
 
@@ -438,13 +438,13 @@
 
 - title: DIMVA
   description: Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2024
-  link: https://www.dimva.org/dimva2024/
+  year: 2025
+  link: https://www.dimva.org/dimva2025/
   deadline:
-  - "2023-12-06 23:59"
-  - "2024-02-21 23:59"
-  date: "July 17-19"
-  place: Lausanne, Switzerland
+  - "2024-12-10 23:59"
+  - "2025-02-12 23:59"
+  date: "July 9-11"
+  place: Graz University of Technology, Austria
   core: C
   esp: 3
 
@@ -460,11 +460,12 @@
 
 - title: ISI
   description: Intelligence and security informatics
-  year: 2023
-  link: https://ieee-isi.org/2023/call-for-papers/
-  deadline: "2023-05-30 23:59"
-  date: "October 2–3"
-  place: Charlotte, North Carolina, USA
+  year: 2025
+  link: https://ieee-isi.org/2025/call-for-papers/
+  deadline: "2025-03-15 23:59"
+  timezone: UTC-12
+  date: "July 12–14"
+  place: Hong Kong, China
   core: C
   esp: 3
   
