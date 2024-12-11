@@ -407,11 +407,11 @@
 
 - title: ARES
   description: Conference on Availability, Reliability and Security
-  year: 2024
-  link: https://www.ares-conference.eu/cfp2024/
-  deadline: "2024-03-13 23:59"
-  date: "July 30–02"
-  place: Vienna, Austria
+  year: 2025
+  link: https://2025.ares-conference.eu
+  deadline: "2025-02-28 23:59"
+  date: "August 11–14"
+  place: Ghent, Belgium
   core: B
   esp: 3
 
@@ -471,12 +471,12 @@
   
 - title: IH&MM
   description: Information Hiding and Multimedia Security
-  year: 2024
+  year: 2025
   link: https://www.ihmmsec.org
-  deadline: "2024-03-01 13:00"
-  date: "June 24-26"
-  timezone: CET
-  place: Baiona, Spain.
+  deadline: "2025-02-14 13:00"
+  date: "June 18-20"
+  #timezone: CET
+  place: San Jose, CA USA
   core: C
   esp: 3
   
@@ -492,12 +492,12 @@
 
 - title: QRS
   description: Quality, Reliability, and Security
-  year: 2024
-  link: https://qrs24.techconf.org
+  year: 2025
+  link: https://qrs25.techconf.org
   comment: Abtract due 10 Aug
-  deadline: "2024-03-18 23:59"
-  date: "July 01-05"
-  place: Cambridge, UK
+  deadline: "2025-04-01 23:59"
+  date: "July 16-20"
+  place: Hangzhou, China
   core: B
   esp: 3
 
