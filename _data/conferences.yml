@@ -165,12 +165,11 @@
 
 - title: WISE
   description: Conference on Web Information Systems Engineering
-  year: 2024
-  comment: Abstract Submission June 1st, 2023
-  link: http://www.wise-conferences.org
-  deadline: "2024-06-30 23:59"
-  date: "December 02-05"
-  place: Doha, Qatar
+  year: 2025
+  link: https://www.ficloud.org/wise2025/
+  deadline: "2024-06-14 23:59"
+  date: "December 15-17"
+  place: Marrakech, Morocco
   core: B
   esp: 3
 
@@ -365,11 +364,11 @@
 
 - title: ISC
   description: The Information Security Conference
-  year: 2024
-  link: https://isc24.cs.gmu.edu
-  deadline: "2024-06-06 23:59"
-  date: "October 23–25"
-  place: Washington DC, USA
+  year: 2025
+  link: https://isc25.skku.edu
+  deadline: "2024-06-04 23:59"
+  date: "October 20–22"
+  place: Seul, South Korea
   core: B
   esp: 3
 
