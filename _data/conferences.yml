@@ -32,12 +32,12 @@
   esp: 2
 
 - title: SAC
-  year: 2025
-  date: "March 31–04"
+  year: 2026
+  date: "March 23-27"
   description: Symposium On Applied Computing
-  link: http://www.sigapp.org/sac/sac2025/
+  link: https://www.sigapp.org/sac/sac2026/
   deadline: "2024-10-04 23:59"
-  place: Catania, Italy
+  place: Thessaloniki, Greece
   core: B
   esp: 2
 
