@@ -36,7 +36,7 @@
   date: "March 23-27"
   description: Symposium On Applied Computing
   link: https://www.sigapp.org/sac/sac2026/
-  deadline: "2024-10-04 23:59"
+  deadline: "2025-09-26 23:59"
   place: Thessaloniki, Greece
   core: B
   esp: 2
@@ -84,13 +84,13 @@
   esp: 0
 
 - title: S&P (Oakland) 
-  year: 2025
-  date: "May 20 – 23 2025"
+  year: 2026
+  date: "May 18 – 21"
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2025/
+  link: https://www.ieee-security.org/TC/SP2026/
   deadline:
-    - "2024-06-06 23:59"
-    - "2024-11-14 23:59"
+    - "2025-06-05 23:59"
+    - "2025-11-13 23:59"
   place: San Francisco, California, USA
   core: AAA
   esp: 1
@@ -119,11 +119,11 @@
 
 - title: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2025
-  link: https://www.ieee-security.org/TC/EuroSP2025
-  deadline: "2024-10-24 23:59"
-  date: "June 30-04"
-  place: Venice, Italy
+  year: 2026
+  link: https://www.ieee-security.org/TC/EuroSP2026
+  deadline: "2025-11-20 23:59"
+  date: "July 06-10"
+  place: Lisbon, Portugal
   core: A
   esp: 0
 
@@ -344,11 +344,11 @@
 
 - title: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2024
-  link: http://ieee-aiplus.org/2024/trustcom/
-  deadline: "2024-10-01 23:59"
-  date: "December 17-21"
-  place: Sanya, China
+  year: 2025
+  link: https://ieee-aiplus-2025.org
+  deadline: "2025-08-01 23:59"
+  date: "November 14-17"
+  place: Guiyang, China
   core: B
   esp: 3
 
