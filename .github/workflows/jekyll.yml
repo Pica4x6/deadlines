@@ -12,13 +12,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: udpdate
-        run: bundle update jekyll-watch listen
-
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2' # Ajusta a la versión que necesites
+          ruby-version: '3.2' 
           bundler-cache: true
 
       - name: Install dependencies
