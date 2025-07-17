@@ -1,12 +1,12 @@
 ---
 
 - title: SecDev
-  year: 2024
-  date: "October 07–10"
+  year: 2025
+  date: "October 14–16"
   description: Secure Development Conference
-  link: https://secdev.ieee.org/2024
-  deadline: "2024-06-14 23:59"
-  place: Carnegie Mellon University Software Engineering Institute Pittsburgh, PA
+  link: https://secdev.ieee.org/2025
+  deadline: "2025-05-20 23:59"
+  place: Purdue University, Indianapolis
   core: N
   esp: 0
 
@@ -53,33 +53,33 @@
   esp: 0
   
 - title: QUATIC
-  year: 2024
-  date: "September 11–13"
+  year: 2025
+  date: "September 3–5"
   description: Quality of Information and Communications Technology
-  link: https://2024.quatic.org
+  link: https://2025.quatic.org
   deadline: "2024-04-12 23:59"
-  place: Pisa, Italy
+  place: Lisbon, Portugal
   core: C
   esp: 0
   
 - title: ICISSP
-  year: 2025
-  date: "February 26–28"
+  year: 2026
+  date: "March 4–6"
   description: International Conference on Information Systems Security and Privacy
-  link: https://icissp.scitevents.org/Home.aspx
-  deadline: "2024-10-02 23:59"
-  place: Porto, Portugal
+  link: https://icissp.scitevents.org/
+  deadline: "2025-12-19 23:59"
+  place: Marbella, Spain
   core: C
   esp: 0
 
 - title: WPES
-  year: 2023
-  date: "November 26"
+  year: 2025
+  date: "October 13"
   description: Workshop on Privacy in the Electronic Society
-  link: https://www.wpes2023.conf.kth.se/cfp.html
-  deadline: "2023-07-24 23:59"
+  link: http://jianying.space/WPES2025/
+  deadline: "2025-07-21 23:59"
 #  timezone: GMT-11
-  place: Copenhagen, Denmark
+  place: Taipei, Taiwan
   core: N
   esp: 0
 
@@ -167,7 +167,7 @@
   description: Conference on Web Information Systems Engineering
   year: 2025
   link: https://www.ficloud.org/wise2025/
-  deadline: "2024-06-14 23:59"
+  deadline: "2025-07-17 23:59"
   date: "December 15-17"
   place: Marrakech, Morocco
   core: B
@@ -302,7 +302,7 @@
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2025
   link: https://raid2025.github.io
-  deadline: "2024-04-09 23:59"
+  deadline: "2025-04-24 23:59"
   date: "October 19-22"
   place: Gold Coast, Australia
   core: A
@@ -310,10 +310,10 @@
 
 - title: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2024
-  link: https://www.acsac.org/2024/
-  deadline: "2024-05-28 23:59"
-  date: "Dec 09-13"
+  year: 2025
+  link: https://www.acsac.org/2025/
+  deadline: "2025-05-30 23:59"
+  date: "Dec 08-12"
   place: Waikiki, USA
   core: A
   esp: 2
@@ -374,11 +374,11 @@
 
 - title: CANS
   description: Conference on Cryptology And Network Security
-  year: 2023
-  link: https://www.cans2022.com
-  deadline: "2023-07-01 23:59"
-  date: "October 31"
-  place: Augusta, Georgia, USA
+  year: 2025
+  link: https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html
+  deadline: "2025-04-28 23:59"
+  date: "November 17-20"
+  place: Osaka, Japan
   core: B
   esp: 0
 
@@ -416,11 +416,11 @@
 
 - title: NSS
   description: Conference on Network and System Security
-  year: 2024
-  link: https://nss2023.cyber.kent.ac.uk
-  deadline: "2024-07-01 23:59"
-  date: "November 14–16"
-  place: United Arab Emirates, UAE, Abu Dhabi
+  year: 2025
+  link: https://nsclab.org/nss-socialsec2025/
+  deadline: "2025-07-14 23:59"
+  date: "December 5–7"
+  place: Wuhan, China
   core: B
   esp: 0
 
@@ -449,11 +449,11 @@
 
 - title: CRISIS
   description: Conference on Risks and Security of Internet and Systems
-  year: 2023
-  link: https://www.crisis-conference.org
-  deadline: "2023-06-23 23:59"
-  date: "December 06–08"
-  place: Rabat, Morocco
+  year: 2025
+  link: https://crisis2025.uqo.ca/
+  deadline: "2025-07-23 23:59"
+  date: "October 22–24"
+  place: Gatineau, Canada
   core: C
   esp: 0
 
@@ -481,11 +481,13 @@
   
 - title: ISPEC
   description: Information Security Practice and Experience Conference
-  year: 2024
-  link: https://ispec2024.github.io/ISPEC2024/
-  deadline: "2024-06-30 23:59"
-  date: "August 24-25"
-  place: Wuhan, China
+  year: 2025
+  link: https://ispec2025.github.io
+  deadline:
+  - "2025-07-07 23:59"
+  - "2025-08-15 23:59"  
+  date: "November 7-9"
+  place: Chengdu, China
   core: B
   esp: 0
 
