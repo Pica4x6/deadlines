@@ -25,7 +25,7 @@ description: Deadlines of the most important Security & Privacy conferences.
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 domain: ""
-baseurl: "deadlines"
+baseurl: "/deadlines"
 url: "https://pica4x6.github.io"
 
 #twitter_username: jekyllrb
