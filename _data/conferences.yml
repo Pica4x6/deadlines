@@ -11,12 +11,12 @@
   esp: 0
 
 - title: SCAM
-  year: 2024
-  date: "October 2–3"
+  year: 2025
+  date: "September 5–12"
   description: Conference on Source Code Analysis & Manipulation
-  link: http://www.ieee-scam.org/2024/
-  deadline: "2024-07-05 23:59"
-  place: Flagstaff, Arizona, USA
+  link: https://conf.researchr.org/home/scam-2025
+  deadline: "2025-07-05 23:59"
+  place: Auckland, New Zealand
   core: C
   esp: 3
 
@@ -107,13 +107,13 @@
   esp: 1
 
 - title: INFOCOM
-  year: 2025
-  date: "May 17–20"
+  year: 2026
+  date: "May 18–21"
   description: Conference on Computer Communications
-  link: http://www.ieee-infocom.org/2024
-  deadline: "2024-07-31 23:59"
+  link: http://www.ieee-infocom.org/2026
+  deadline: "2025-07-31 23:59"
   comment: Abstract submission deadline July 24
-  place: London, UK
+  place: Tokyo, Japan
   core: AAA
   esp: 1
 
