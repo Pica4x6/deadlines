@@ -279,7 +279,7 @@
   timezone: KST
   date: "Nov 19-21"
   place: Seul, Korea
-  core: B
+  core: N
   esp: 3
 
 
@@ -488,7 +488,7 @@
   - "2025-08-15 23:59"  
   date: "November 7-9"
   place: Chengdu, China
-  core: B
+  core: C
   esp: 0
 
 - title: QRS
