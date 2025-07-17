@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: udpdate
+        run: bundle update jekyll-watch listen
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -19,7 +22,7 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: bundle install
+        run: bundle install      
 
       - name: Build site
         run: bundle exec jekyll build
