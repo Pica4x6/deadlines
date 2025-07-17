@@ -200,8 +200,8 @@
 
 - title: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2025
-  link: https://www.ndss-symposium.org/ndss2025/
+  year: 2026
+  link: https://www.ndss-symposium.org/ndss2026/
   deadline:
     - "%y-04-17 23:59"
     - "%y-07-10 23:59"
