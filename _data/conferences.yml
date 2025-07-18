@@ -200,14 +200,14 @@
 
 - title: Usenix
   description: Usenix Security Symposium
-  year: 2025
-  link: https://www.usenix.org/conference/usenixsecurity25
+  year: 2026
+  link: https://www.usenix.org/conference/usenixsecurity26
   deadline:
-    - "%y-09-04 23:59"
-    - "%y-02-22 23:59"
+    - "%y-08-26 23:59"
+    - "%y-02-05 23:59"
   comment: Two cycles.
   date: "August 14-16"
-  place: Seattle, WA, USA
+  place: Baltimore, MD, USA
   core: AAA
   esp: 1
 
