@@ -20,6 +20,19 @@
   core: C
   esp: 3
 
+- title: Sigmetrics
+  year: 2026
+  date: "June 8–12"
+  description: Special Interest Group on Performance Evaluation
+  link: https://www.sigmetrics.org/sigmetrics2026
+  deadline: 
+    - "2025-07-29 23:59"
+    - "2025-10-14 23:59"
+    - "2026-01-13 23:59"
+  place: Ann Arbor, Michigan, USA
+  core: AAA
+  esp: 1
+
 - title: DSN
   description: Dependable Systems and Networks
   year: 2025
