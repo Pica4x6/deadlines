@@ -109,13 +109,13 @@
   esp: 1
 
 - title: WWW
-  year: 2025
-  date: "May 13–17"
+  year: 2026
+  date: "April 13–17"
   description: The Web Conference
-  link: https://www2025.thewebconf.org
-  deadline: "2024-10-14 23:59"
-  comment: Abstract submission deadline October 5
-  place: Sidany, Australia
+  link: https://www2026.thewebconf.org
+  deadline: "2025-10-07 23:59"
+  comment: Abstract submission deadline September 30
+  place: Dubai, UAE
   core: AAA
   esp: 1
 
