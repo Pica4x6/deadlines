@@ -440,11 +440,11 @@
 
 - title: PST
   description: Annual Conference on Privacy, Security and Trust
-  year: 2025
-  link: http://pstnet.ca/pst2025
-  deadline: "2025-04-01 23:59"
+  year: 2026
+  link: http://pstnet.ca/pst2026
+  deadline: "2026-05-01 23:59"
   date: "August 26–28"
-  place: Fredericton, Canada
+  place: Ottawa, Canada (Hybrid)
   core: C
   esp: 0
 
@@ -507,11 +507,11 @@
 - title: QRS
   description: Quality, Reliability, and Security
   year: 2025
-  link: https://qrs25.techconf.org
+  link: https://qrs26.techconf.org
   comment: Abtract due 10 Aug
   deadline: "2025-04-01 23:59"
-  date: "July 16-20"
-  place: Hangzhou, China
+  date: "July 22-25"
+  place: Florence, Italy
   core: B
   esp: 3
 
