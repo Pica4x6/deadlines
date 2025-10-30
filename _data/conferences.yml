@@ -35,12 +35,12 @@
 
 - title: DSN
   description: Dependable Systems and Networks
-  year: 2025
-  link: https://dsn2025.github.io
-  deadline: "2024-12-04 23:59"
+  year: 2026
+  link: https://dsn2026.github.io
+  deadline: "2025-12-04 23:59"
   comment: Title and abstract deadline Nov, 27
-  date: June 23-26
-  place: Naples, Italy
+  date: June 22-25
+  place: Charlotte, USA
   core: A
   esp: 2
 
@@ -66,12 +66,12 @@
   esp: 0
   
 - title: QUATIC
-  year: 2025
-  date: "September 3–5"
+  year: 2026
+  date: "September 9–11"
   description: Quality of Information and Communications Technology
-  link: https://2025.quatic.org
+  link: https://2026.quatic.org
   deadline: "2024-04-12 23:59"
-  place: Lisbon, Portugal
+  place: Genoa, Italy
   core: C
   esp: 0
   
