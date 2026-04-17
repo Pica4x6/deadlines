@@ -213,11 +213,11 @@
 
 - title: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2026
-  link: https://www.ndss-symposium.org/ndss2026/
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/
   deadline:
-    - "%y-04-17 23:59"
-    - "%y-07-10 23:59"
+    - "%y-05-06 23:59"
+    - "%y-08-19 23:59"
   date: February 23-28
   place: San Diego, CA, USA
   core: AAA
