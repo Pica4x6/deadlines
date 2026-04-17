@@ -120,13 +120,13 @@
   esp: 1
 
 - title: INFOCOM
-  year: 2026
+  year: 2027
   date: "May 18–21"
   description: Conference on Computer Communications
-  link: http://www.ieee-infocom.org/2026
-  deadline: "2025-07-31 23:59"
-  comment: Abstract submission deadline July 24
-  place: Tokyo, Japan
+  link: https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67597
+  deadline: "2026-07-24 23:59"
+  comment: Abstract submission deadline July ?
+  place: Honolulu, Hawaii, USA
   core: AAA
   esp: 1
 
