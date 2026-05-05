@@ -97,14 +97,14 @@
   esp: 0
 
 - title: S&P (Oakland) 
-  year: 2026
+  year: 2027
   date: "May 18 – 21"
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2026/
+  link: https://www.ieee-security.org/TC/SP2027/
   deadline:
-    - "2025-06-05 23:59"
-    - "2025-11-13 23:59"
-  place: San Francisco, California, USA
+    - "%y-06-11 23:59"
+    - "%y-11-17 23:59"
+  place: Montreal, Canada
   core: AAA
   esp: 1
 
