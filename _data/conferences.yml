@@ -45,12 +45,13 @@
   esp: 2
 
 - title: SAC
-  year: 2026
+  year: 2027
   date: "March 23-27"
   description: Symposium On Applied Computing
-  link: https://www.sigapp.org/sac/sac2026/
-  deadline: "2025-10-17 23:59"
-  place: Thessaloniki, Greece
+  link: https://www.sigapp.org/sac/sac2027
+  deadline: "2026-10-02 23:59"
+  place: South Korea
+  timezone: EST
   core: B
   esp: 2
 
