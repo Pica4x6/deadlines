@@ -133,8 +133,8 @@
 
 - title: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2026
-  link: https://www.ieee-security.org/TC/EuroSP2026
+  year: 2027
+  link: https://www.ieee-security.org/TC/EuroSP2027
   deadline: "2025-11-20 23:59"
   date: "July 06-10"
   place: Lisbon, Portugal
@@ -345,13 +345,13 @@
 
 - title: ACNS
   description: International Conference on Applied Cryptography and Network Security
-  year: 2026
-  link: https://acns2026.github.io
+  year: 2027
+  link: https://acns2027.isg.rhul.ac.uk
   deadline:
-  - "2025-09-26 23:59"
-  - "2026-01-23 23:59"
-  date: "June 22-25"
-  place: Stony Brook, NY
+  - "2026-09-24 23:59"
+  - "2027-01-21 23:59"
+  date: "June 28-01"
+  place: Royal Holloway, University of London, Egham, United Kingdom
   core: B
   esp: 2
 
