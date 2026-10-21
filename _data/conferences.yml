@@ -260,7 +260,7 @@
 
 - title: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2026
+  year: 2027
   link: https://petsymposium.org
   deadline:
     - "%y-05-31 23:59"
@@ -268,9 +268,9 @@
     - "%y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: July 20-25
+  date: July 19-24
   timezone: UTC-12
-  place: Calgary, Canada
+  place: Delft, The Netherlands
   core: A
   esp: 2
 
@@ -367,11 +367,11 @@
 
 - title: IFIPSec
   description: Information Security and Privacy Protection
-  year: 2025
+  year: 2027
   link: https://ifipsec.org
-  deadline: "2025-12-09"
-  date: "June 9-11"
-  place: Perth, Australia
+  deadline: "2026-12-15"
+  date: "June 14-16"
+  place: Linköping, Sweden
   core: B
   esp: 3
 
