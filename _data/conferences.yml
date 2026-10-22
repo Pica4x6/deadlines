@@ -143,14 +143,14 @@
 
 - title: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2026
-  link: https://www.sigsac.org/ccs/CCS2026
+  year: 2027
+  link: https://www.sigsac.org/ccs/CCS2027
   deadline:
     - "%y-01-14 23:59"
     - "%y-04-29 23:59"
   comment: 2 review cycles (tentative dates..)
   date: "November 15-19"
-  place: The Hague, The Netherlands
+  place: Atlanta, USA
   core: AAA
   esp: 1
 
