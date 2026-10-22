@@ -156,13 +156,13 @@
 
 - title: CoNEXT
   description: International Conference on emerging Networking EXperiments and Technologies
-  year: 2026
-  link: https://conferences2.sigcomm.org/co-next/2026
+  year: 2027
+  link: https://conferences2.sigcomm.org/co-next/2027
   deadline:
     - "%y-12-04 23:59"
-    - "%y-06-14 23:59"
-  date: "December 9-12"
-  place: Los Angeles, California, USA
+    - "%y-06-04 23:59"
+  date: "December 6-9"
+  place: Rio de Janeiro, Brazil
   core: A
   esp: 2
 
